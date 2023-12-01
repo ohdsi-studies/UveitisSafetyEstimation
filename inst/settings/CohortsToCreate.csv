@@ -1,0 +1,14 @@
+atlas_id,cohort_id,cohort_name,logic_description,generate_stats
+9367,9367,[964_5] Remicade and methotrexate (RA),NA,FALSE
+9368,9368,"[964_5] certolizumab pegol, tocilizumab (RA)",NA,FALSE
+9369,9369,[964_5] Remicade (CD-UC),NA,FALSE
+9370,9370,"[964_5] golimumab, certolizumab pegol, ustekinumab, vedolizumab (CD-UC)",NA,FALSE
+9371,9371,[964_5] Remicade (PP-PsA),NA,FALSE
+9372,9372,"[964_5] golim, certz, guselk, risankiz, tildrakiz, brodal, ixekiz, secukin, ustekin (PP-PsA)",NA,FALSE
+9373,9373,[964_5] Remicade (AS),NA,FALSE
+9374,9374,"[964_5] certolizumab pegol, golimumab, ixekizumab, secukinumab (AS)",NA,FALSE
+8449,8449,[964] Rheumatoid Arthritis,copied from https://epi.jnj.com/atlas/#/cohortdefinition/8050,FALSE
+9048,9048,[964] Ankylosing Spondylitis,copied from https://epi.jnj.com/atlas/#/cohortdefinition/8048,FALSE
+9028,9028,[964] Crohns disease or ulcerative colitis,NA,FALSE
+9029,9029,[964] Psoriatic arthritis or plaque psoriasis,copied from https://epi.jnj.com/atlas/#/cohortdefinition/5972,FALSE
+8466,8466,[964] Non-infectious uveitis (primary),first event of 2x or 1x during ophthalmology visit,FALSE

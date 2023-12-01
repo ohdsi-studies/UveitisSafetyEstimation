@@ -1,0 +1,9 @@
+exposureCohortId,exposureCohortName,indicationCohortId,indicationCohortName,exposureIndicationCohortId,exposureIndicationCohortName
+9367,Remicade and methotrexate (RA),8449,Rheumatoid Arthritis,93678449,Remicade and methotrexate (RA) w Rheumatoid Arthritis
+9368,"certolizumab pegol, tocilizumab (RA)",8449,Rheumatoid Arthritis,93688449,"certolizumab pegol, tocilizumab (RA) w Rheumatoid Arthritis"
+9369,Remicade (CD-UC),9028,Crohns disease or ulcerative colitis,93699028,Remicade (CD-UC) w Crohns disease or ulcerative colitis
+9370,"golimumab, certolizumab pegol, ustekinumab, vedolizumab (CD-UC)",9028,Crohns disease or ulcerative colitis,93709028,"golimumab, certolizumab pegol, ustekinumab, vedolizumab (CD-UC) w Crohns disease or ulcerative colitis"
+9371,Remicade (PP-PsA),9029,Psoriatic arthritis or plaque psoriasis,93719029,Remicade (PP-PsA) w Psoriatic arthritis or plaque psoriasis
+9372,"golim, certz, guselk, risankiz, tildrakiz, brodal, ixekiz, secukin, ustekin (PP-PsA)",9029,Psoriatic arthritis or plaque psoriasis,93729029,"golim, certz, guselk, risankiz, tildrakiz, brodal, ixekiz, secukin, ustekin (PP-PsA) w Psoriatic arthritis or plaque psoriasis"
+9373,Remicade (AS),9048,Ankylosing Spondylitis,93739048,Remicade (AS) w Ankylosing Spondylitis
+9374,"certolizumab pegol, golimumab, ixekizumab, secukinumab (AS)",9048,Ankylosing Spondylitis,93749048,"certolizumab pegol, golimumab, ixekizumab, secukinumab (AS) w Ankylosing Spondylitis"
