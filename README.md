@@ -14,4 +14,4 @@ Comparative effect estimation study assessing the risk of non-infectious uveitis
 - Publications: **TBD**
 - Results explorer: **[Shiny app](https://data.ohdsi.org/UveitisEstimationDiagnostics/)**
 
-This study applied validity diagnostics on a heterogenous, observational setting to answer a specific safety research question. The results indicated that safety effect estimates from many analyses would be inappropriate to interpret as causal, given the data available and methods employed. Validity diagnostics should always be used to determine if the design and analysis are of sufficient quality to support causal inferences.
+This study applied validity diagnostics on a heterogeneous, observational setting to answer a specific safety research question. The results indicated that safety effect estimates from many analyses would be inappropriate to interpret as causal, given the data available and methods employed. Validity diagnostics should always be used to determine if the design and analysis are of sufficient quality to support causal inferences.
